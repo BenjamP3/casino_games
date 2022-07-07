@@ -8,3 +8,9 @@
 ## texas_holdem holds the poker game Texas Hold'Em
 
 - All images of cards are .png files from the /images folder
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
